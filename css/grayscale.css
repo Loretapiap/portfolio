@@ -349,6 +349,7 @@ body {
     border: 10px solid #fff;
     overflow: hidden;
     position: relative;
+    left: 5%;
     text-align: center;
     box-shadow: 1px 1px 2px #e6e6e6;
     cursor: default;
@@ -404,7 +405,7 @@ body {
   transition: all 0.4s ease-in-out 0.5s; 
 }
 .view-sixth .mask{ 
-  background-color: rgba(146,96,91,0.5);
+  background-color: rgba(82,105,135,0.5);
   opacity:0;
   transition: all 0.3s ease-in 0.4s;
 }
